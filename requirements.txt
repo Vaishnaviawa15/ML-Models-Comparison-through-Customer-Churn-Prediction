@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+=======
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+>>>>>>> 6beea00e2bacdf6a04b11b2a917af4c0134bb444
+openpyxl
